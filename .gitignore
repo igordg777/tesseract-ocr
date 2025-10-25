@@ -1,0 +1,74 @@
+# Зависимости
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Результаты OCR (можно оставить примеры)
+results/
+result.txt
+
+# Загруженные файлы
+uploads/
+
+# Логи
+*.log
+
+# Временные файлы
+.tmp/
+temp/
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Переменные окружения
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Кэш
+.cache/
+*.cache
+
+# Сборка
+dist/
+build/
+
+# Тестовые файлы (если будут)
+test-*
+*_test.js
+*.test.js
+
+# Документация сборки
+docs/build/
+
+# Резервные копии
+*.bak
+*.backup
+*.old
+
+# Архивы
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Файлы операционной системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
