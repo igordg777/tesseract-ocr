@@ -21,7 +21,7 @@
 1. **Клонируйте репозиторий:**
 ```bash
 git clone <repository-url>
-cd tesseract_ocr
+cd tesseract-ocr
 ```
 
 2. **Установите Tesseract OCR:**
